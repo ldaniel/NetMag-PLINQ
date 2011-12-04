@@ -1,0 +1,5 @@
+D:\Artigos\Net Magazine\PLINQ\Solution\NetMag.PLINQ\NetMag.Exemplo05\bin\Debug\NetMag.Exemplo05.exe
+D:\Artigos\Net Magazine\PLINQ\Solution\NetMag.PLINQ\NetMag.Exemplo05\bin\Debug\NetMag.Exemplo05.pdb
+D:\Artigos\Net Magazine\PLINQ\Solution\NetMag.PLINQ\NetMag.Exemplo05\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Artigos\Net Magazine\PLINQ\Solution\NetMag.PLINQ\NetMag.Exemplo05\obj\x86\Debug\NetMag.Exemplo05.exe
+D:\Artigos\Net Magazine\PLINQ\Solution\NetMag.PLINQ\NetMag.Exemplo05\obj\x86\Debug\NetMag.Exemplo05.pdb
